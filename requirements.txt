@@ -1,0 +1,12 @@
+
+smartapi-python
+logzero
+websocket-client
+pyotp
+pandas
+pytz
+matplotlib
+seaborn
+tqdm
+tenacity
+python-dotenv
